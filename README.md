@@ -1,5 +1,8 @@
 # ChainGuard-AI
 
+## Slides
+[Presentation slides](https://docs.google.com/presentation/d/1JvOaihwfq2KQz0abSDV2B8ZFJkr2lrd7ZzUGdlRPug8/edit)
+
 # Getting Started
 
 # Prerequisites
