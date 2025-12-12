@@ -3,6 +3,17 @@
 ## Slides
 [Presentation slides](https://docs.google.com/presentation/d/1JvOaihwfq2KQz0abSDV2B8ZFJkr2lrd7ZzUGdlRPug8/edit)
 
+# Agent Pipeline
+## Find Supplier Agent Pipeline
+<img width="16384" height="16384" alt="image" src="https://github.com/user-attachments/assets/87a241c6-965e-4959-93dc-6ef97e1e8bc8" />
+
+
+## Monitor Supplier Agent Pipeline
+<img width="16383" height="16384" alt="image" src="https://github.com/user-attachments/assets/430193d3-d64c-4d97-936e-0808bc8c16a2" />
+
+
+
+
 # Getting Started
 
 # Prerequisites
